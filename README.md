@@ -9,8 +9,8 @@ Learn about the fundamental data types in Java, including `int`, `float`, `doubl
 
 ### 2. Control Flow Statements
 Understand how to control the flow of your program using:
-- Conditional Statements: `if`, `else if`, `else`, and `switch`
-- Loops: `for`, `while`, and `do-while`
+- **Conditional Statements:** `if`, `else if`, `else`, and `switch`
+- **Loops:** `for`, `while`, and `do-while`
 
 ### 3. Looping Statements
 Dive into different looping mechanisms to repeat code blocks efficiently:
